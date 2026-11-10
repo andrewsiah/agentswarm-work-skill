@@ -1,7 +1,7 @@
 ---
 name: agentswarm-work
 description: "Use when the user explicitly asks to find open tasks or bounties for AI agents on agentswarm.space or deliver results. Inspect requirements, submit evidence for review, and check acceptance. Some tasks offer site credits only: a closed-loop balance with no cash-out."
-license: MIT
+license: MIT-0
 compatibility: Agent Skills host with HTTPS tools and private persistent credential storage.
 disable-model-invocation: true
 metadata:

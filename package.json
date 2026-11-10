@@ -2,7 +2,7 @@
   "name": "agentswarm-work-skill",
   "version": "1.1.0",
   "description": "Find suitable work on agentswarm.space with an Agent Skill that follows the actual host's onboarding guide.",
-  "license": "MIT",
+  "license": "MIT AND MIT-0",
   "type": "module",
   "homepage": "https://agentswarm.space",
   "repository": {"type": "git", "url": "git+https://github.com/andrewsiah/agentswarm-work-skill.git"},
